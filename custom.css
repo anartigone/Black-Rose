@@ -1,0 +1,245 @@
+/* 
+   Written in 2019 by Write.as
+
+   To the extent possible under law, the author(s) have dedicated all 
+   copyright and related and neighboring rights to this software to the 
+   public domain worldwide. This software is distributed without any 
+   warranty.
+
+   You should have received a copy of the CC0 Public Domain Dedication 
+   along with this software. If not, see 
+   http://creativecommons.org/publicdomain/zero/1.0
+*/
+
+body {
+	color: #950101;
+	background: #000000;
+	background-color: #000000;
+}
+div {
+    white-space: pre-wrap;
+}
+body#collection article p {
+    display: inline;
+}
+body#collection article .book h1, body#post article h1 {
+	font-size: 2.0rem;
+	font-weight: 500;
+}
+body#collection article .book h2, body#post article h2, .post-title {
+	font-size: 1.6rem;
+	font-weight: 500;
+    margin-bottom: -1.2em !important;
+}
+body#collection article .book h3, body#post article h3 {
+	font-size: 1.5rem;
+	font-weight: 500;
+    margin-bottom: -1.2em !important;
+}
+body#collection article .book h4, body#post article h4 {
+	font-size: 1.4rem;
+	font-weight: 500;
+    margin-bottom: -1.2em !important;
+}
+body#collection article .book h5, body#post article h5 {
+	font-size: 1.3rem;
+	font-weight: 500;
+    margin-bottom: -1.2em !important;
+}
+#blog-title a {
+    color: #950101;
+}
+#blog-title a:hover { 
+    color: #FF0000;
+}
+header p.description {
+    color: #3D0000;
+}
+header p.description:hover {
+    color: #FF0000;
+}
+header nav a {
+    color: #3D0000;
+    font-weight: bold;
+}
+body, body#collection nav#manage li a.write, .font.norm, body#collection article.norm, body#post article.norm, body#subpage article.norm, pre.norm, span.norm, textarea.norm, .dropdown-nav, nav#manage, .action {
+	font-family: 'Source Han CJK SC', 'Noto Sans CJK SC', 'Noto Sans SC', sans-serif;
+}
+body#post article h2#title
+ {
+font-size: 2.2rem;
+}
+.post-title, #post h2 {
+    color: #950101;
+    text-align: center;
+}
+.post-title a:hover {
+    color: #FF0000;
+    text-decoration: none;
+}
+.post-title a:visited {
+    color: #3D0000;
+}
+.post-title a:link {
+    color: #3D0000;
+}
+.post-title a {
+    font-style: normal;
+}
+.post-title a:link:hover {
+    color: #FF0000;
+    text-decoration: none;
+}
+#collection .post-title a {
+    color: #3D0000;
+    text-decoration: none;
+}
+#collection .post-title a:hover {
+    color: #FF0000;
+    text-decoration: none;
+}
+#post #blog-title a {
+    padding: 4px 8px;
+    text-align: center;
+}
+body#collection #wrapper h2+time, body#subpage #wrapper h2+time {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+body article time.dt-published, body#post article time.dt-published, body#subpage article time.dt-published {
+    color: #3D0000;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+nav#manage ul ul, body .dropdown-nav ul ul {
+	background: #000000;
+	border: 1px solid #3D0000;
+}
+body#collection header nav {
+    color: #950101;
+}
+body .dropdown-nav ul a, body #manage ul ul a {
+		 color: #950101;
+	}
+body #manage ul a {
+		 color: #3D0000;
+		 background: #000000;
+	}
+body #manage ul a:hover, body .dropdown-nav ul li:hover, body #manage ul ul li:hover, body #manage ul li:hover {
+		 color: #950101;
+		 background: #3D0000;
+	}
+body #official-writing h2, body #official-writing h3, body #official-writing h4, body #wrapper h2, body #wrapper h3, body #wrapper h4 {
+		 color: #950101;
+	}
+body footer, body footer nav, body footer nav a:link, body footer nav a:visited, body footer a.home:link, body footer a.home:visited {
+    color: #3D0000;
+}
+hr {
+    background-color: #3D0000;
+    margin: auto;
+}
+article a {
+	 padding: 0.2em;
+	 font-style: italic;
+}
+body a {
+	 color: #950101;
+	 text-decoration: none;
+	}
+body a:visited {
+	 color: #3D0000;
+	 text-decoration: none;
+	}
+body a:visited:hover, body a:hover, body a:link:hover {
+	 color: #FF0000;
+	 text-decoration: none;
+	}
+article time , article #dt-published {
+    color: #3D0000;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+body#collection blockquote, body#post blockquote, body#subpage blockquote {
+    border-left: 4px solid #FF0000;
+    padding: 0 1em;
+    margin: 0.5em;
+    color: #950101;
+    display: inline-block;
+}
+strong {
+    font-weight: bold;
+    color: #FF0000;
+}
+body#collection code, body#post code, body#subpage code {
+    background-color: #3D0000;
+    border: 1px solid #950101;
+    padding: 0.2em 0.4em;
+    font-size: .86em;
+    -webkit-border-radius: 0.25em;
+    -moz-border-radius: .25em;
+    border-radius: 0.25em;
+}
+body#collection pre, body#post pre, body#subpage pre {
+    max-width: 100%;
+    margin: 0;
+    background: #3D0000;
+    border: 1px solid #950101;
+    padding: 0.375em 0.625em;
+    font-size: .86em;
+    -webkit-border-radius: 0.25em;
+    -moz-border-radius: .25em;
+    border-radius: 0.25em;
+}
+a.hashtag span:first-child {
+    color: #3D0000;
+    text-decoration: none;
+}
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline;
+  border-bottom: 1px dotted #950101;
+}
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: max-content;
+  max-width: 512px; 
+  background-color: #950101;
+  color: #000000;
+  text-align: center;
+  padding: 8px;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #950101 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 0.9;
+}
