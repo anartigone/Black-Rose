@@ -1,5 +1,5 @@
 # Black-Rose
-A radical theme for [my personal blog](https://writee.org/anartigone/) based on WriteFreely.
+A radical theme for [my personal blog](https://writee.org/anartigone/black-rose-css)) based on WriteFreely.
 If you're not into leftist philosophy, this theme also represents the aesthetics of BLOOD-C, a Japanese anime which character designed by CLAMP.
 
 ## Usage
