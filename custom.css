@@ -12,7 +12,7 @@
 */
 
 body {
-	color: #950101;
+	color: #AF0404;
 	background: #000000;
 	background-color: #000000;
 }
@@ -29,34 +29,34 @@ body#collection article .book h1, body#post article h1 {
 body#collection article .book h2, body#post article h2, .post-title {
 	font-size: 1.6rem;
 	font-weight: 500;
-    margin-bottom: -1.2em !important;
+    margin-top: 1.2em !important;
 }
 body#collection article .book h3, body#post article h3 {
 	font-size: 1.5rem;
 	font-weight: 500;
-    margin-bottom: -1.2em !important;
+    margin-top: 1.2em !important;
 }
 body#collection article .book h4, body#post article h4 {
 	font-size: 1.4rem;
 	font-weight: 500;
-    margin-bottom: -1.2em !important;
+    margin-top: 1.2em !important;
 }
 body#collection article .book h5, body#post article h5 {
 	font-size: 1.3rem;
 	font-weight: 500;
-    margin-bottom: -1.2em !important;
+    margin-top: 1.2em !important;
 }
 #blog-title a {
-    color: #950101;
+    color: #AF0404;
 }
 #blog-title a:hover { 
-    color: #FF0000;
+    color: #CE1212;
 }
 header p.description {
     color: #3D0000;
 }
 header p.description:hover {
-    color: #FF0000;
+    color: #CE1212;
 }
 header nav a {
     color: #3D0000;
@@ -70,11 +70,11 @@ body#post article h2#title
 font-size: 2.2rem;
 }
 .post-title, #post h2 {
-    color: #950101;
+    color: #AF0404;
     text-align: center;
 }
 .post-title a:hover {
-    color: #FF0000;
+    color: #CE1212;
     text-decoration: none;
 }
 .post-title a:visited {
@@ -87,7 +87,7 @@ font-size: 2.2rem;
     font-style: normal;
 }
 .post-title a:link:hover {
-    color: #FF0000;
+    color: #CE1212;
     text-decoration: none;
 }
 #collection .post-title a {
@@ -95,7 +95,7 @@ font-size: 2.2rem;
     text-decoration: none;
 }
 #collection .post-title a:hover {
-    color: #FF0000;
+    color: #CE1212;
     text-decoration: none;
 }
 #post #blog-title a {
@@ -118,21 +118,21 @@ nav#manage ul ul, body .dropdown-nav ul ul {
 	border: 1px solid #3D0000;
 }
 body#collection header nav {
-    color: #950101;
+    color: #AF0404;
 }
 body .dropdown-nav ul a, body #manage ul ul a {
-		 color: #950101;
+		 color: #AF0404;
 	}
 body #manage ul a {
 		 color: #3D0000;
 		 background: #000000;
 	}
 body #manage ul a:hover, body .dropdown-nav ul li:hover, body #manage ul ul li:hover, body #manage ul li:hover {
-		 color: #950101;
+		 color: #AF0404;
 		 background: #3D0000;
 	}
 body #official-writing h2, body #official-writing h3, body #official-writing h4, body #wrapper h2, body #wrapper h3, body #wrapper h4 {
-		 color: #950101;
+		 color: #AF0404;
 	}
 body footer, body footer nav, body footer nav a:link, body footer nav a:visited, body footer a.home:link, body footer a.home:visited {
     color: #3D0000;
@@ -146,7 +146,7 @@ article a {
 	 font-style: italic;
 }
 body a {
-	 color: #950101;
+	 color: #AF0404;
 	 text-decoration: none;
 	}
 body a:visited {
@@ -154,7 +154,7 @@ body a:visited {
 	 text-decoration: none;
 	}
 body a:visited:hover, body a:hover, body a:link:hover {
-	 color: #FF0000;
+	 color: #CE1212;
 	 text-decoration: none;
 	}
 article time , article #dt-published {
@@ -165,19 +165,19 @@ img {
     margin: 0 auto;
 }
 body#collection blockquote, body#post blockquote, body#subpage blockquote {
-    border-left: 4px solid #FF0000;
+    border-left: 4px solid #CE1212;
     padding: 0 1em;
     margin: 0.5em;
-    color: #950101;
+    color: #AF0404;
     display: inline-block;
 }
 strong {
     font-weight: bold;
-    color: #FF0000;
+    color: #CE1212;
 }
 body#collection code, body#post code, body#subpage code {
     background-color: #3D0000;
-    border: 1px solid #950101;
+    border: 1px solid #AF0404;
     padding: 0.2em 0.4em;
     font-size: .86em;
     -webkit-border-radius: 0.25em;
@@ -188,7 +188,7 @@ body#collection pre, body#post pre, body#subpage pre {
     max-width: 100%;
     margin: 0;
     background: #3D0000;
-    border: 1px solid #950101;
+    border: 1px solid #AF0404;
     padding: 0.375em 0.625em;
     font-size: .86em;
     -webkit-border-radius: 0.25em;
@@ -204,14 +204,14 @@ a.hashtag span:first-child {
 .tooltip {
   position: relative;
   display: inline;
-  border-bottom: 1px dotted #950101;
+  border-bottom: 1px dotted #AF0404;
 }
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
   width: max-content;
   max-width: 512px; 
-  background-color: #950101;
+  background-color: #AF0404;
   color: #000000;
   text-align: center;
   padding: 8px;
@@ -235,7 +235,7 @@ a.hashtag span:first-child {
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: #950101 transparent transparent transparent;
+  border-color: #AF0404 transparent transparent transparent;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
