@@ -53,13 +53,13 @@ body#collection article .book h5, body#post article h5 {
     color: #CE1212;
 }
 header p.description {
-    color: #3D0000;
+    color: #800000;
 }
 header p.description:hover {
     color: #CE1212;
 }
 header nav a {
-    color: #3D0000;
+    color: #800000;
     font-weight: bold;
 }
 body, body#collection nav#manage li a.write, .font.norm, body#collection article.norm, body#post article.norm, body#subpage article.norm, pre.norm, span.norm, textarea.norm, .dropdown-nav, nav#manage, .action {
@@ -78,10 +78,10 @@ font-size: 2.2rem;
     text-decoration: none;
 }
 .post-title a:visited {
-    color: #3D0000;
+    color: #800000;
 }
 .post-title a:link {
-    color: #3D0000;
+    color: #800000;
 }
 .post-title a {
     font-style: normal;
@@ -91,7 +91,7 @@ font-size: 2.2rem;
     text-decoration: none;
 }
 #collection .post-title a {
-    color: #3D0000;
+    color: #800000;
     text-decoration: none;
 }
 #collection .post-title a:hover {
@@ -108,14 +108,14 @@ body#collection #wrapper h2+time, body#subpage #wrapper h2+time {
     margin-bottom: 2em;
 }
 body article time.dt-published, body#post article time.dt-published, body#subpage article time.dt-published {
-    color: #3D0000;
+    color: #800000;
     text-align: center;
     margin-top: 3em;
     margin-bottom: 2em;
 }
 nav#manage ul ul, body .dropdown-nav ul ul {
 	background: #000000;
-	border: 1px solid #3D0000;
+	border: 1px solid #800000;
 }
 body#collection header nav {
     color: #AF0404;
@@ -124,21 +124,21 @@ body .dropdown-nav ul a, body #manage ul ul a {
 		 color: #AF0404;
 	}
 body #manage ul a {
-		 color: #3D0000;
+		 color: #800000;
 		 background: #000000;
 	}
 body #manage ul a:hover, body .dropdown-nav ul li:hover, body #manage ul ul li:hover, body #manage ul li:hover {
 		 color: #AF0404;
-		 background: #3D0000;
+		 background: #800000;
 	}
 body #official-writing h2, body #official-writing h3, body #official-writing h4, body #wrapper h2, body #wrapper h3, body #wrapper h4 {
 		 color: #AF0404;
 	}
 body footer, body footer nav, body footer nav a:link, body footer nav a:visited, body footer a.home:link, body footer a.home:visited {
-    color: #3D0000;
+    color: #800000;
 }
 hr {
-    background-color: #3D0000;
+    background-color: #800000;
     margin: auto;
 }
 article a {
@@ -150,7 +150,7 @@ body a {
 	 text-decoration: none;
 	}
 body a:visited {
-	 color: #3D0000;
+	 color: #800000;
 	 text-decoration: none;
 	}
 body a:visited:hover, body a:hover, body a:link:hover {
@@ -158,7 +158,7 @@ body a:visited:hover, body a:hover, body a:link:hover {
 	 text-decoration: none;
 	}
 article time , article #dt-published {
-    color: #3D0000;
+    color: #800000;
 }
 img {
     display: block;
@@ -196,7 +196,7 @@ body#collection pre, body#post pre, body#subpage pre {
     border-radius: 0.25em;
 }
 a.hashtag span:first-child {
-    color: #3D0000;
+    color: #800000;
     text-decoration: none;
 }
 
